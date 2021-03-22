@@ -1,4 +1,4 @@
-# Task-1. Integral.
+# Calculate Integral using MPI
 The following code performs a calculation of an area underneath the function $f(x) = \frac{4}{1 + x^2}$ from 0 to 1 by various means.
 
 ## Structure.
